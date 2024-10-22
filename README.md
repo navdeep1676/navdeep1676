@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** and **Tech
 - 🔭 I’m working on an **eCommerce project** and building a **blogging platform** using **Next.js**.
 - 🎮 I have a growing interest in game development and plan to launch a gaming channel soon.
 - 💡 Passionate about **AI**, **UI/UX design**, and **Cloud Computing**.
-- 📫 How to reach me: [navdeep.dahiya@example.com](mailto:navdeep.dahiya@example.com)
+- 📫 How to reach me: [navdeepdahiya753@gmail.com](mailto:navdeepdahiya753@gmail.com)
 
 ## 💻 My Skills
 
@@ -65,6 +65,6 @@ I love sharing knowledge with the community. Check out my latest tutorials:
 
 ## 🌍 Connect with Me
 
-- LinkedIn: [Navdeep Dahiya](https://linkedin.com/in/navdeep-dahiya)
+- LinkedIn: [Navdeep Dahiya](https://linkedin.com/in/navdeep-dahiya-719016186/)
 - Twitter: [@navdeep_dev](https://twitter.com/navdeep_dev)
 - Website: [Developer's Corner](https://www.developerscorner.in)
