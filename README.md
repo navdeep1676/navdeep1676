@@ -34,11 +34,6 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** and **Tech
 - Databases: **MongoDB**, **MySQL**
 - Frameworks: **Next.js**, **Express**
 
-### Other Interests:
-- 🧠 **AI & Machine Learning**
-- 🎮 **Game Development**
-- 🎨 **UI/UX Design**
-
 ## 🔧 Projects & Open Source Work
 
 Here are some of my notable projects:
