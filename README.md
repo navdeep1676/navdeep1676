@@ -53,15 +53,11 @@ Feel free to check out the repositories below or on my [GitHub repositories](htt
 
 I love sharing knowledge with the community. Check out my latest tutorials:
 
-- [JavaScript Interview Coding Questions](https://www.youtube.com/@developerscorner)
+- [YouTube Channel](https://www.youtube.com/@developerscorner)
 - [Next.js & React UI Components](https://www.developerscorner.in/ui-kits)
 - [SQL & MySQL Crash Course](https://www.developerscorner.in/tutorials)
 
-## 📈 GitHub Stats
 
-![Navdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername?tab=repositories)
 
 ## 🌍 Connect with Me
 
