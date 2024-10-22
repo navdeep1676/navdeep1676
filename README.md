@@ -47,15 +47,15 @@ Here are some of my notable projects:
 - 🛒 **eCommerce Project** - A fully-featured eCommerce website built with **MERN** stack.
 - 📝 **Blogging Platform** - A Next.js blogging platform I'm currently developing.
 
-Feel free to check out the repositories below or on my [GitHub repositories](https://github.com/yourusername?tab=repositories) for detailed project descriptions.
+Feel free to check out the repositories below or on my [GitHub repositories](https://github.com/navdeep1676?tab=repositories) for detailed project descriptions.
 
 ## 📚 Tutorials & Learning
 
 I love sharing knowledge with the community. Check out my latest tutorials:
 
-- [JavaScript Interview Coding Questions](https://www.youtube.com/channel/youryoutubechannel)
-- [Next.js & React UI Components](https://www.developerscorner.in)
-- [SQL & MySQL Crash Course](https://www.developerscorner.in/sql-tutorials)
+- [JavaScript Interview Coding Questions](https://www.youtube.com/@developerscorner)
+- [Next.js & React UI Components](https://www.developerscorner.in/ui-kits)
+- [SQL & MySQL Crash Course](https://www.developerscorner.in/tutorials)
 
 ## 📈 GitHub Stats
 
@@ -66,5 +66,4 @@ I love sharing knowledge with the community. Check out my latest tutorials:
 ## 🌍 Connect with Me
 
 - LinkedIn: [Navdeep Dahiya](https://linkedin.com/in/navdeep-dahiya-719016186/)
-- Twitter: [@navdeep_dev](https://twitter.com/navdeep_dev)
 - Website: [Developer's Corner](https://www.developerscorner.in)
